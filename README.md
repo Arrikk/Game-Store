@@ -1,6 +1,6 @@
 # Game Store UI
 
-![Design](https://cdn.dribbble.com/users/4601337/screenshots/14930319/media/234dd2fda3c7e36073bafee451d3288d.png)
+![](https://cdn.dribbble.com/users/4601337/screenshots/14930319/media/234dd2fda3c7e36073bafee451d3288d.png)
 
 ## Getting Started
 
